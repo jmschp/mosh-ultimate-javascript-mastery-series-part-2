@@ -27,3 +27,5 @@
 14. Exercise- Stopwatch
 
 ## Prototypes
+
+1. Inheritance
