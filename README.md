@@ -3,7 +3,27 @@
 ![The Ultimate JavaScript Mastery Series - Part 2](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/GaDoSeRHQqeFuL19uPWR "The Ultimate JavaScript Mastery Series - Part 2")
 
 ## Getting Started
-1. What is OOP (1:45)
-2. Four Pillars of OOP (7:02)
-3. Setting Up the Development Environment (2:16)
-4. Course Structure (2:55)
+
+1. What is OOP
+2. Four Pillars of OOP
+3. Setting Up the Development Environment
+4. Course Structure
+
+## Objects
+
+1. Introduction
+2. Object Literals
+3. Factories
+4. Constructors
+5. Constructor Property
+6. Functions are Objects
+7. Value vs Reference Types
+8. Adding or Removing Properties
+9. Enumerating Properties
+10. Abstraction
+11. Private Properties and Methods
+12. Getters and Setters
+13. Cheat Sheet
+14. Exercise- Stopwatch
+
+## Prototypes
