@@ -29,3 +29,6 @@
 ## Prototypes
 
 1. Inheritance
+2. Prototypes and Prototypical Inheritance
+3. Multilevel Inheritance
+4. Property Descriptors
