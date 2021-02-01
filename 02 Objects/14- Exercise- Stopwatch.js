@@ -1,4 +1,4 @@
-// 14 - Exercise - Stopwatch;
+// 14 - Exercise - Stopwatch
 
 function StopWatch() {
   let startTime,

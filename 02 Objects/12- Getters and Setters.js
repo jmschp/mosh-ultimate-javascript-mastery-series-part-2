@@ -87,5 +87,5 @@ function Circle(radius) {
 const myCircle = new Circle(10);
 console.log(myCircle.defaultLocation);
 
-myCircle.defaultLocation = 1;
+myCircle.defaultLocation = {x: 1, y: 1 };
 console.log(myCircle.defaultLocation);
