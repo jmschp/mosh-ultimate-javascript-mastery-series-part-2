@@ -1,4 +1,4 @@
-# [Code with Mosh - The Ultimate JavaScript Mastery Series - Part 2](https://codewithmosh.com/courses/enrolled/310571)
+# [Code with Mosh - The Ultimate JavaScript Mastery Series - Part 2](https://codewithmosh.com/p/object-oriented-programming-in-javascript)
 
 ![The Ultimate JavaScript Mastery Series - Part 2](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/GaDoSeRHQqeFuL19uPWR "The Ultimate JavaScript Mastery Series - Part 2")
 
@@ -32,3 +32,9 @@
 2. Prototypes and Prototypical Inheritance
 3. Multilevel Inheritance
 4. Property Descriptors
+5. Constructor Prototypes
+6. Prototype vs Instance Members
+7. Iterating Instance and Prototype Members
+8. Avoid Extending the Built-in Objects
+9. Cheat Sheet
+10. Exercise
