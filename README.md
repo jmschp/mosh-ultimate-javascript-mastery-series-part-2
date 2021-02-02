@@ -1,6 +1,6 @@
 # [Code with Mosh - The Ultimate JavaScript Mastery Series - Part 2](https://codewithmosh.com/p/object-oriented-programming-in-javascript)
 
-![The Ultimate JavaScript Mastery Series - Part 2](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/GaDoSeRHQqeFuL19uPWR "The Ultimate JavaScript Mastery Series - Part 2")
+[![The Ultimate JavaScript Mastery Series - Part 2](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/GaDoSeRHQqeFuL19uPWR "The Ultimate JavaScript Mastery Series - Part 2")](https://codewithmosh.com/p/object-oriented-programming-in-javascript "The Ultimate JavaScript Mastery Series - Part 2")
 
 ## Getting Started
 
