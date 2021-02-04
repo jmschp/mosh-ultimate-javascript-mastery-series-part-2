@@ -56,3 +56,29 @@
 11. Solution- Prototypical Inheritance (5:53)
 12. Exercise- Polymorphism (2:35)
 13. Solution- Polymorphism (5:11)
+
+## ES6 Classes (55m)
+
+1.  ES6 Classes (5:41)
+2.  Hoisting (3:46)
+3.  Static Methods (4:17)
+4.  The This Keyword (4:57)
+5.  Private Members Using Symbols (7:48)
+6.  Private Members Using WeakMaps (6:58)
+7.  Getters and Setters (2:50)
+8.  Inheritance (4:00)
+9.  Method Overriding (2:33)
+10. Cheat Sheet
+11. Exercise (3:25)
+12. Solution (4:20)
+
+## ES6 Tooling (30m)
+
+1.  Modules (3:42)
+2.  CommonJS Modules (5:51)
+3.  ES6 Modules (3:23)
+4.  ES6 Tooling (1:26)
+5.  Babel (7:11)
+6.  Webpack (8:26)
+7.  Cheat Sheet
+8.  What to Learn Next
