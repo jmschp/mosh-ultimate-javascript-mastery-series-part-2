@@ -33,3 +33,5 @@ myCircle.draw();
 
 const anotherCircle = Circle.parse('{ "radius" : 1 }'); // Width the Static method parse() we can initialize a new circle object 
 anotherCircle.draw();
+
+// We use static method to create utility functions that are not tied to a particular function.
