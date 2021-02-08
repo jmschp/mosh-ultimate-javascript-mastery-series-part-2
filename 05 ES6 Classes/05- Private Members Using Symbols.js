@@ -25,6 +25,7 @@ There are 3 approaches to this
   1 - Use an underscore "this._radius", this is just a naming convention that some developers use, but it does not actually make the methods or properties private. DO NOT USE
   2 - Using Symbols
   3 - Using WeakMaps
+  4 - Using # names ---> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields
 */
 
 console.log(Symbol() === Symbol()); // It returns false, because every time we call the Symbol() we get a new unique value.

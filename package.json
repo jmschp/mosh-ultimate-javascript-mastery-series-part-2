@@ -1,0 +1,14 @@
+{
+  "name": "js-basics-2",
+  "scripts": {
+    "babel": "babel index.js --presets=@babel/preset-env --out-file build/index.js",
+    "build": "webpack --watch"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.13",
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
