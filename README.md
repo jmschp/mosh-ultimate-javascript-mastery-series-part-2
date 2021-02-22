@@ -2,14 +2,27 @@
 
 [![The Ultimate JavaScript Mastery Series - Part 2](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/GaDoSeRHQqeFuL19uPWR "The Ultimate JavaScript Mastery Series - Part 2")](https://codewithmosh.com/p/object-oriented-programming-in-javascript "The Ultimate JavaScript Mastery Series - Part 2")
 
-## Getting Started (17m)
+### Introduction
+
+This repository was made while studying with [Mosh Hamedani](https://programmingwithmosh.com/ "Programming with Mosh"), in [Code with Mosh](https://codewithmosh.com/ "Code with Mosh"). And it contains all my notes from the course. It can be used as an extensive JavaScript cheatsheet.
+
+### Course content
+
+1. Getting Started
+2. Objects
+3. Prototypes
+4. Prototypical Inheritance
+5. ES6 Classes
+6. ES6 Tooling
+
+### Getting Started (17m)
 
 1.  What is OOP (1:45)
 2.  Four Pillars of OOP (7:02)
 3.  Setting Up the Development Environment (2:16)
 4.  Course Structure (2:55)
 
-## Objects (1h15m)
+### Objects (1h15m)
 
 1.  Introduction (0:44)
 2.  Object Literals (3:03)
@@ -27,7 +40,7 @@
 14. Exercise- Stopwatch (2:08)
 15. Solution- Stopwatch (2:31)
 
-## Prototypes (40m)
+### Prototypes (40m)
 
 1.  Inheritance (2:26)
 2.  Prototypes and Prototypical Inheritance (5:33)
@@ -41,7 +54,7 @@
 10. Exercise (1:33)
 11. Solution (5:38)
 
-## Prototypical Inheritance (50m)
+### Prototypical Inheritance (50m)
 
 1. Creating Your Own Prototypical Inheritance (5:34)
 2. Resetting the Constructor (4:00)
@@ -57,7 +70,7 @@
 12. Exercise- Polymorphism (2:35)
 13. Solution- Polymorphism (5:11)
 
-## ES6 Classes (55m)
+### ES6 Classes (55m)
 
 1.  ES6 Classes (5:41)
 2.  Hoisting (3:46)
@@ -72,7 +85,7 @@
 11. Exercise (3:25)
 12. Solution (4:20)
 
-## ES6 Tooling (30m)
+### ES6 Tooling (30m)
 
 1.  Modules (3:42)
 2.  CommonJS Modules (5:51)
